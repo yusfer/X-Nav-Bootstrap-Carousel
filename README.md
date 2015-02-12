@@ -10,7 +10,7 @@ Utilizando componentes Bootstrap, realiza una página para la ETSIT URJC. La pá
 
 <ul>
 <li>Un <i>carousel</i> (con su barra de navegación)</li>
-<li>Al menos dos componentes más de Boostrap (a elección del alumno)</<li>
+<li>Al menos dos componentes más de Boostrap (a elección del alumno)</li>
 <li>Al menos un componente de <a href="http://www.bootsnipp.com">Bootsnipp</a>
 </ul>
 
